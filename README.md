@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Hoang Phat 👋</h1>
-<p align="center">
-  <img src="static/myintro.gif" alt="intro" width="400"/>
-</p>
-
 ---
 
 ### 🚀 About Me
 - 🧑‍💻 Full-stack developer from Vietnam.
 - 🌱 Currently exploring cloud-native architectures and modern web frameworks.
-- 💬 Ask me about Node.js, React, Python, or anything tech-related.
-- ⚡ Fun fact: I enjoy turning coffee into code.
+- 💬 Ask me about Node.js, React, Next.js, or anything tech-related.
 
 ### 🛠 Tech Stack
 <p align="center">
