@@ -15,23 +15,11 @@
   <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" alt="Python"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangphatdev&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangphatdev&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphatdev&theme=radical" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphatdev&layout=compact&theme=radical" alt="top langs"/>
-</p>
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/hoangphatdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/phat-la-truong-hoang-26381827a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hoangphat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
